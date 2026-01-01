@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\bin\Release\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\Kinect to MC (RCON) (legs).csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\MainWindow.baml
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\MainWindow.g.cs
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\App.g.cs
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\KinectCoordinateMapping.g.resources
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\obj\Release\Kinect to MC (RCON) (legs).csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\bin\Release\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (legs)\KinectCoordinateMapping\bin\Release\KinectCoordinateMapping.pdb

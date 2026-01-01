@@ -1,0 +1,16 @@
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\Kinect to MC (RCON) (movements).csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\Kinect to MC (RCON) (movements).csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\Kinect to MC\v5 Kinect to MC (RCON) (movements)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\Kinect to MC\v5 Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\v5 Kinect to MC (RCON) (movements)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
