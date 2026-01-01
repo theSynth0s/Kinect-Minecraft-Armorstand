@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\kinect-body-joints-to-minecraft-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
