@@ -1,0 +1,38 @@
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Victor\Desktop\Kinect to MC Console\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\Kinect to MC (console).csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\Kinect to MC (console).csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Victor\Desktop\Kinect to MC Console\r\KinectCoordinateMapping\obj\Debug\Kinect to MC (console).csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\Kinect to MC (console).csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Victor\Desktop\Kinect to MC\Kinect to MC (console)\KinectCoordinateMapping\obj\Debug\Kinect to MC (console).csproj.GenerateResource.Cache
